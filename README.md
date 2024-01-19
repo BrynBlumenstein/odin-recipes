@@ -1,4 +1,4 @@
-# Project: Recipes
+# odin-recipes
 
 This is my unfinished version of Project: Recipes from The Odin Project
 
